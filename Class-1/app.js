@@ -8,7 +8,13 @@
      let name1 = name;
      if(name1=="abc"){
          alert("true" )
-     };
+     }
+     
+     else{
+         alert("false");  
+     }
+    
+
  }
 //  let name = prompt("name");
 
