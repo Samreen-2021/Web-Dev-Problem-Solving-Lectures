@@ -1,0 +1,47 @@
+body{
+    padding: 10px;
+    background-color: rgb(184, 133, 144);
+}
+
+.numb{
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+}
+.numb1{
+    display:inline-block;
+    padding: 30px;
+    margin-right: 20px;
+  
+}
+.numb2{
+    display:inline-block;
+    padding: 30px;
+}
+h2{
+    text-align: center;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    
+}
+.button{
+    padding: 30px;
+    margin-right: 10px;
+    font-size: 30px;
+}
+.result{
+    display: block;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 10px;
+   
+}
+#result{
+    padding: 30px;
+}
+#numb1, #numb2{
+    padding:15px;
+
+}
